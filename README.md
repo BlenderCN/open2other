@@ -7,3 +7,5 @@ blender's open to other soft
 
 # [blener和maya](https://github.com/BlenderCN/open-other/blob/master/maya/README.md)
 
+# [blender和houdini](https://github.com/BlenderCN/open-other/blob/master/houdini/README.md)
+

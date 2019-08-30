@@ -2,7 +2,7 @@
 
 # open-other----blender's open to other soft
 
-# blender和其他软件的千丝万缕联系.
+# 收集blender和其他软件的千丝万缕联系.
 
 * #  [blener和maya](https://github.com/BlenderCN/open-other/tree/master/maya)
 
